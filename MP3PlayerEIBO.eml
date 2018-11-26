@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<contentEntry url="file://$MODULE_DIR$/bin"/>
+	<lib name="eibo_simpleminim (1).jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/eibo_simpleminim (1).jar!/"/>
+	</lib>
+	<lib name="eibo_staticscanner (1).jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/eibo_staticscanner (1).jar!/"/>
+	</lib>
+	<lib name="jl1.0.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/jl1.0.1.jar!/"/>
+	</lib>
+	<lib name="jsminim.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/jsminim.jar!/"/>
+	</lib>
+	<lib name="minim.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/minim.jar!/"/>
+	</lib>
+	<lib name="mp3agic (1).jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/mp3agic (1).jar!/"/>
+	</lib>
+	<lib name="mp3spi1.9.5.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/mp3spi1.9.5.jar!/"/>
+	</lib>
+	<lib name="tritonus_aos.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tritonus_aos.jar!/"/>
+	</lib>
+	<lib name="tritonus_share.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tritonus_share.jar!/"/>
+	</lib>
+</component>
